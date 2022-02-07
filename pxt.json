@@ -1,5 +1,5 @@
 {
-    "name": "ya",
+    "name": "pinbeta1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,5 +17,5 @@
     "supportedTargets": [
         "calliopemini"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }
